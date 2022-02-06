@@ -22,4 +22,5 @@
 if __name__ == "__main__":
     quote = input("What is the quote? ")
     name = input("Who said it? ")
-    print(f'{name} says, "{quote}"')
+    # print(f'{name} says, "{quote}"')
+    print(name + ' says, "' + quote + '"')
