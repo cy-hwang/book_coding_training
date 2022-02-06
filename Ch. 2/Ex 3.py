@@ -24,3 +24,8 @@ if __name__ == "__main__":
     name = input("Who said it? ")
     # print(f'{name} says, "{quote}"')
     print(name + ' says, "' + quote + '"')
+
+
+"""
+문자열 조합: name + ' says, "' + quote + '"'
+"""

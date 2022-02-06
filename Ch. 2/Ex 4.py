@@ -24,3 +24,7 @@ if __name__ == "__main__":
     adverb = input("Enter an adverb: ")
 
     print(f"Do you {verb} your {adjective} {noun} {adverb}? That's hilarious")
+
+"""
+f string: f"Do you {verb} your {adjective} {noun} {adverb}? That's hilarious"
+"""
