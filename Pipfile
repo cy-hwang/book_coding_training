@@ -5,6 +5,7 @@ name = "pypi"
 
 [packages]
 requests = "*"
+pylint = "~=2.12"
 
 [dev-packages]
 black = "*"
